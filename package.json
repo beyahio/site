@@ -1,0 +1,30 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "The site content's for beyah.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyahio/site.git"
+  },
+  "author": "Beyah Solutions, LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyahio/site/issues"
+  },
+  "homepage": "https://github.com/beyahio/site#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jsdoc": "^1.1.0",
+    "ink-docstrap": "^1.1.4",
+    "jsdoc": "^3.4.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}

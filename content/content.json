@@ -1,0 +1,9 @@
+{
+  "jenkins": {
+    "title": "Jenkins",
+    "children": ["jenkinsConfiguration"]
+  },
+  "jenkinsConfiguration": {
+    "title": "Configuring Jenkins"
+  }
+}
